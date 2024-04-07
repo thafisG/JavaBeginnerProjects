@@ -1,4 +1,4 @@
-# Java projects for beginners
+# Java projects for beginners ☕︎
 
 This repository is for academic use.
 
